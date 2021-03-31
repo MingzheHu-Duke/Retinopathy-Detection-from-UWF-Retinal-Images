@@ -5,10 +5,10 @@ deployment of real-time automated retinopathy detection tools using UWF images w
 has been developed.
 
 ### Referenece
-The Deep Residual Shrinkage Network (DRSN) structure was first proposed in this paper:
+The Deep Residual Shrinkage Network (DRSN) structure was first proposed in this paper:  
 Zhao, Minghang, et al. "Deep residual shrinkage networks for fault diagnosis." IEEE Transactions on Industrial Informatics 16.7 (2019): 4681-4690.
 
-The implementaion of the DRSN from the original paper was referenced:
+The implementaion of the DRSN from the original paper was referenced:  
 https://github.com/zhao62/Deep-Residual-Shrinkage-Networks.git
 
 
